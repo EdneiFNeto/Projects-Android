@@ -1,9 +1,8 @@
 # Mobile-SOLID
-App usado para funcionar como velocimetro
+App usado para funcionar como velocímetro.
 
 ## Screenshots
 ![Login](screenshots/page-init.png "Add Students")
-![Login](screenshots/page-init-2.png "Add Students")
 
 ## API
 - [LocationManager](https://developer.android.com/reference/android/location/LocationManager)
