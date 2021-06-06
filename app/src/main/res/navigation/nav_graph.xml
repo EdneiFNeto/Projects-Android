@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/velocimetroFragment">
+
+    <fragment
+        android:id="@+id/velocimetroFragment"
+        android:name="com.example.solid.ui.fragment.SpeedometerFragment"
+        android:label="fragment_velocimetro"
+        tools:layout="@layout/fragment_velocimetro" />
+</navigation>
