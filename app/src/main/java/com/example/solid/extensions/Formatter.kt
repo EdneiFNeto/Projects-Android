@@ -5,5 +5,5 @@ import java.util.*
 
 fun Double.formatterKm(): String {
     var currencyInstance = NumberFormat.getCurrencyInstance(Locale("pt", "BR"))
-    return currencyInstance.format(this).replace("R$", "") +"/KM"
+    return currencyInstance.format(this).replace("R$", "") +"KM/H"
 }
