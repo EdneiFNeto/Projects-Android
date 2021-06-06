@@ -1,5 +1,10 @@
-# Mobile-SOLID
-App usado para funcionar como velocímetro.
+
+# Project - Android
+projetos criados em kotlin.
+
+## Velocímetro
+App usado para funcionar como velocímetro. Para funcionamento correto do aplicativo sua localização deve
+está ligada.
 
 ## Screenshots
 ![Login](screenshots/page-init.png "Add Students")
