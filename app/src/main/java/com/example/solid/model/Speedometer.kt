@@ -1,3 +1,3 @@
 package com.example.solid.model
 
-class Speedometer(val km: Double)
+class Speedometer(var km: Double)
