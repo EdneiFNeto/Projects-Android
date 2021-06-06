@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="sizetextView">18sp</dimen>
+    <dimen name="sizetextView">56sp</dimen>
 </resources>
